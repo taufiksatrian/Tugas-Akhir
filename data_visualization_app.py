@@ -3,7 +3,6 @@ import pandas as pd
 import seaborn as sns
 import streamlit as st
 import matplotlib.pyplot as plt
-import tableauserverclient as TSC
 from matplotlib.patches import Patch
 import streamlit.components.v1 as components
 
